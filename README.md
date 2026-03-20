@@ -14,6 +14,38 @@ Sou especialista em transformar grandes volumes de dados e processos operacionai
 
 📈 Growth & UX: Interfaces imersivas em React, PWAs e ferramentas de Business Intelligence para análise de performance.
 
+📂 Projetos em Destaque
+
+Projeto
+
+Descrição
+
+Tech Stack
+
+Nexus AI Command Center
+
+Centro de comando autônomo com painel de performance e núcleos sentinela.
+
+Python Batch Automation
+
+The Market Architect
+
+Motor de Big Data para análise de +390k logs e extração de avatares de mercado.
+
+Python LLMs Pandas
+
+WebCut Studio
+
+Editor de vídeo completo no navegador com linha do tempo interativa e renderização em Canvas.
+
+React Canvas API UX
+
+Suíte Auditores Jurídicos
+
+Sistema de auditoria com Shield Anti-Alucinação via Regex para conformidade legal.
+
+Python Regex LegalTech
+
 🛠️ Meu Stack Tecnológico:
 
 Lógica & Dados: Python, API GenAI (Gemini), SQL, Regex, OCR (Tesseract).
@@ -24,8 +56,8 @@ Metodologias: Product Management (PM/PO), Scrum, Discovery, Prototipagem Ágil.
 
 🏆 Explore o Meu Ecossistema
 
-Eu desenvolvi mais de 26 sistemas e motores de inteligência. Você pode ver a arquitetura e o escopo completo de todos eles no meu Portfólio Web interativo:
+Eu desenvolvi mais de 26 sistemas e motores de inteligência. Você pode ver a arquitetura, o escopo técnico e a demonstração de todos eles no meu Portfólio Web interativo:
 
-🌐 https://adrianasousa-dev.github.io/portfolio/
+🌐 CLIQUE AQUI PARA ACESSAR MEU PORTFÓLIO COMPLETO
 
 📫 Vamos conversar sobre Produto, Inovação e IA?
