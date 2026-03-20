@@ -26,6 +26,6 @@ Metodologias: Product Management (PM/PO), Scrum, Discovery, Prototipagem Ágil.
 
 Eu desenvolvi mais de 26 sistemas e motores de inteligência. Você pode ver a arquitetura e o escopo completo de todos eles no meu Portfólio Web interativo:
 
-🌐 Acessar Meu Portfólio Completo
+🌐 https://adrianasousa-dev.github.io/portfolio/
 
 📫 Vamos conversar sobre Produto, Inovação e IA?
