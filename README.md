@@ -24,9 +24,9 @@ Metodologias: Product Management (PM/PO), Scrum, Prototipagem Rápida.
 
 🏆 Projetos em Destaque:
 
-The Market Architect v13.1: Análise de +390.000 logs usando IA Generativa.
+The Market Architect v13.1: Análise de +390.000 logs usando IA Generativa.: https://github.com/adrianasousa-dev/the-market-architect
 
-Nexus Command Center: Orquestração de agentes autônomos em ambiente Windows.
+Nexus Command Center: Orquestração de agentes autônomos em ambiente Windows.: https://github.com/adrianasousa-dev/nexus-ai-command-center
 
 Ecossistema SoftGestão: Suíte de ERPs e Auditores Jurídicos especializados.
 
