@@ -2,48 +2,38 @@ Olá! Eu sou a Adriana Sousa 👋
 
 Product Manager | AI Solutions Architect | Lead Developer
 
-Sou especialista em transformar grandes volumes de dados e processos operacionais complexos em ecossistemas digitais de alta performance. Transito com facilidade entre a Visão Estratégica de Negócios e a Engenharia de Software/IA.
+Sou especialista em transformar grandes volumes de dados e processos operacionais complexos em ecossistemas digitais de alta performance. Transito entre a Visão Estratégica de Negócios e a Engenharia de Software/IA.
 
 🚀 O que eu construo:
 
-🧠 Inteligência Artificial & Big Data: Motores analíticos integrados via API (Gemini 2.5), processamento massivo de logs (+390k) e Agentes Autônomos (Nexus Command Center).
+🧠 Inteligência Artificial & Big Data: Motores analíticos integrados via API (Gemini), processamento massivo de logs (390k+) e Agentes Autônomos (Nexus).
 
-⚙️ Desenvolvimento de ERPs: Arquitetura fim-a-fim de sistemas de gestão verticalizados (Varejo, Automotivo, Legal Ops, Saúde).
+⚙️ Desenvolvimento de ERPs: Arquitetura fim-a-fim de sistemas de gestão verticalizados (Varejo, Automotivo, Legal Ops).
 
-🛡️ Engenharia Jurídica: Implementação de softwares de auditoria com "Escudos Anti-Alucinação" (Regex) e adequação rigorosa à LGPD.
+🛡️ Engenharia Jurídica: Softwares de auditoria com "Escudos Anti-Alucinação" (Regex) e adequação à LGPD.
 
-📈 Growth & UX: Interfaces imersivas em React, PWAs e ferramentas de Business Intelligence para análise de performance.
-
-📂 Projetos em Destaque:
-
-🚀 Nexus AI Command Center
-Centro de comando autônomo com painel de performance e núcleos sentinela.
-Tech: Python, Batch, Automation
-
-📊 The Market Architect
-Motor de Big Data para análise de +390k logs e extração de avatares de mercado.
-Tech: Python, LLMs, Pandas
-
-🎬 WebCut Studio
-Editor de vídeo completo no navegador com linha do tempo interativa e renderização em Canvas.
-Tech: React, Canvas API, UX
-
-⚖️ Suíte Auditores Jurídicos
-Sistema de auditoria com Shield Anti-Alucinação via Regex para conformidade legal.
-Tech: Python, Regex, LegalTech
+📈 Growth & UX: Interfaces imersivas em React e ferramentas de BI para análise de performance.
 
 🛠️ Meu Stack Tecnológico:
 
-Lógica & Dados: Python, API GenAI (Gemini), SQL, Regex, OCR (Tesseract).
+Lógica & IA: Python, API GenAI (Gemini), Pandas, Regex.
 
-Front-end & Nuvem: React.js, Tailwind CSS, JavaScript, Firebase.
+Front-end & UX: React.js, Tailwind CSS, JavaScript.
 
-Metodologias: Product Management (PM/PO), Scrum, Discovery, Prototipagem Ágil.
+Metodologias: Product Management (PM/PO), Scrum, Prototipagem Rápida.
 
-🏆 Explore o Meu Ecossistema
+🏆 Projetos em Destaque:
 
-Eu desenvolvi mais de 26 sistemas e motores de inteligência. Você pode ver a arquitetura, o escopo técnico e a demonstração de todos eles no meu Portfólio Web interativo:
+The Market Architect v13.1: Análise de +390.000 logs usando IA Generativa.
 
-🌐 https://adrianasousa-dev.github.io/portfolio/
+Nexus Command Center: Orquestração de agentes autônomos em ambiente Windows.
 
-📫 Vamos conversar sobre Produto, Inovação e IA?
+Ecossistema SoftGestão: Suíte de ERPs e Auditores Jurídicos especializados.
+
+“Transformando processos complexos em produtos digitais de alta performance.”
+
+🔗 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-sousa-tech/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-020617?style=for-the-badge&logo=react&logoColor=38bdf8)](https://adrianasousa-dev.github.io/portfolio/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianasousa.dev@gmail.com)
