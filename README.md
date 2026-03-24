@@ -1,34 +1,36 @@
 Olá! Eu sou a Adriana Sousa 👋
 
-Product Manager | AI Solutions Architect | Lead Developer
+AI Solutions Architect | Senior Software Engineer | Product Manager
 
-Sou especialista em transformar grandes volumes de dados e processos operacionais complexos em ecossistemas digitais de alta performance. Transito entre a Visão Estratégica de Negócios e a Engenharia de Software/IA.
+Sou especialista em transformar grandes volumes de dados e regras de negócio críticas em ecossistemas digitais escaláveis e seguros. Transito entre a Arquitetura Cloud, Inteligência Artificial Aplicada e a Visão Estratégica de Produto. Ao longo da minha carreira, concebi e entreguei 28 sistemas proprietários.
 
 🚀 O que eu construo:
 
-🧠 Inteligência Artificial & Big Data: Motores analíticos integrados via API (Gemini), processamento massivo de logs (390k+) e Agentes Autônomos (Nexus).
+🤖 AgentOps & IA Generativa: Orquestração de Agentes Autônomos (LangGraph), integração MCP (Model Context Protocol) e pipelines RAG para processamento massivo (+390k logs).
 
-⚙️ Desenvolvimento de ERPs: Arquitetura fim-a-fim de sistemas de gestão verticalizados (Varejo, Automotivo, Legal Ops).
+💸 Fintech & Algorithmic Trading: Robôs de operação automatizada para B3 (Mini Índice), gestão de risco tática e monitores de compliance para iGaming (AML).
 
-🛡️ Engenharia Jurídica: Softwares de auditoria com "Escudos Anti-Alucinação" (Regex) e adequação à LGPD.
+⚖️ Legal Tech & Compliance: Motores de auditoria híbrida com "Escudos Anti-Alucinação" (Regex + LLMs) garantindo precisão absoluta e conformidade regulatória.
 
-📈 Growth & UX: Interfaces imersivas em React e ferramentas de BI para análise de performance.
+⚙️ Cloud & Core Engineering: Arquiteturas Serverless (AWS), ecossistemas ERP modulares e aplicações de alta performance (React/Electron).
 
 🛠️ Meu Stack Tecnológico:
 
-Lógica & IA: Python, API GenAI (Gemini), Pandas, Regex.
+Cloud & Arquitetura: AWS, Serverless, Micro-frontends, Clean Code, SOLID.
 
-Front-end & UX: React.js, Tailwind CSS, JavaScript.
+IA & Engenharia de Dados: Python, Gemini API, RAG, LangGraph, Vector DBs.
 
-Metodologias: Product Management (PM/PO), Scrum, Prototipagem Rápida.
+Front-end & Performance: React.js, TypeScript, Tailwind CSS, Web Assembly.
+
+Metodologias: Product Management (PM/PO), CI/CD, Prototipagem Ágil.
 
 🏆 Projetos em Destaque:
 
-The Market Architect v13.1: Análise de +390.000 logs usando IA Generativa.: https://github.com/adrianasousa-dev/the-market-architect
+The Market Architect v13.1: Motor Python de Big Data que processa +390.000 logs usando IA Generativa para extração de inteligência tática de mercado.
 
-Nexus Command Center: Orquestração de agentes autônomos em ambiente Windows.: https://github.com/adrianasousa-dev/nexus-ai-command-center
+Nexus Command Center: Orquestrador de agentes autônomos em ambiente Windows com foco em observabilidade e segurança (Guardrails).
 
-Ecossistema SoftGestão: Suíte de ERPs e Auditores Jurídicos especializados.
+Ecossistema Enterprise (28 Sistemas): Suíte completa que engloba o SoftGestão ERP, Legal Auditor IA, WebCut Studio e Nexus Quant B3.
 
 “Transformando processos complexos em produtos digitais de alta performance.”
 
