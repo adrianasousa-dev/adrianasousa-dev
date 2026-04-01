@@ -48,4 +48,4 @@
 ### 📫 **Vamos construir o futuro da IA?**
 * **LinkedIn:** [adriana-sousa-tech](https://www.linkedin.com/in/adriana-sousa-tech/)
 * **Email:** [adrianasousa.dev@gmail.com](mailto:adrianasousa.dev@gmail.com)
-*   Portfólio:https://adrianasousa-dev.github.io/portfolio/
+*   Portfólio: https://adrianasousa-dev.github.io/portfolio/
