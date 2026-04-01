@@ -1,40 +1,4 @@
-Olá! Eu sou a Adriana Sousa 👋
-
-AI Solutions Architect | Senior Software Engineer | Product Manager
-
-Sou especialista em transformar grandes volumes de dados e regras de negócio críticas em ecossistemas digitais escaláveis e seguros. Transito entre a Arquitetura Cloud, Inteligência Artificial Aplicada e a Visão Estratégica de Produto. Ao longo da minha carreira, concebi e entreguei 28 sistemas proprietários.
-
-🚀 O que eu construo:
-
-🤖 AgentOps & IA Generativa: Orquestração de Agentes Autônomos (LangGraph), integração MCP (Model Context Protocol) e pipelines RAG para processamento massivo (+390k logs).
-
-💸 Fintech & Algorithmic Trading: Robôs de operação automatizada para B3 (Mini Índice), gestão de risco tática e monitores de compliance para iGaming (AML).
-
-⚖️ Legal Tech & Compliance: Motores de auditoria híbrida com "Escudos Anti-Alucinação" (Regex + LLMs) garantindo precisão absoluta e conformidade regulatória.
-
-⚙️ Cloud & Core Engineering: Arquiteturas Serverless (AWS), ecossistemas ERP modulares e aplicações de alta performance (React/Electron).
-
-🛠️ Meu Stack Tecnológico:
-
-Cloud & Arquitetura: AWS, Serverless, Micro-frontends, Clean Code, SOLID.
-
-IA & Engenharia de Dados: Python, Gemini API, RAG, LangGraph, Vector DBs.
-
-Front-end & Performance: React.js, TypeScript, Tailwind CSS, Web Assembly.
-
-Metodologias: Product Management (PM/PO), CI/CD, Prototipagem Ágil.
-
-🏆 Projetos em Destaque:
-
-The Market Architect v13.1: Motor Python de Big Data que processa +390.000 logs usando IA Generativa para extração de inteligência tática de mercado.
-
-Nexus Command Center: Orquestrador de agentes autônomos em ambiente Windows com foco em observabilidade e segurança (Guardrails).
-
-Ecossistema Enterprise (28 Sistemas): Suíte completa que engloba o SoftGestão ERP, Legal Auditor IA, WebCut Studio e Nexus Quant B3.
-
-“Transformando processos complexos em produtos digitais de alta performance.”
-
-🔗 Conecte-se comigo
+Olá! Eu sou a Adriana Sousa 👋AI Solutions Architect | Senior Software Engineer | LLMOps & AgentOpsSou uma arquiteta de soluções focada em transformar requisitos complexos de negócio em ecossistemas digitais autônomos, escaláveis e de alto ROI. Minha trajetória une a precisão da Engenharia de Software à profundidade do Direito, permitindo a criação de ferramentas que são tecnicamente potentes e juridicamente seguras.🎓 Educação & Evolução TécnicaTecnologia em Inteligência Artificial | FMU (2025 – 2027) Foco em: Deep Learning, Redes Neurais, NLP e IA Generativa.Em busca da certificação intermediária de Especialista em IA (3º semestre).Bacharelado em Direito | UNINOVE (2014).📜 Certificações em DestaqueCloud: AWS Cloud Practitioner Essentials | AWS Training.Cloud (Em andamento): AWS Cloud Quest: Cloud Practitioner Badge.Engenharia de Software: Projetos de Sistemas de TI | Fundação Bradesco.Desenvolvimento: Desenvolvimento Orientado a Objetos com Python | Fundação Bradesco.Dados: Modelagem de Dados | Fundação Bradesco.IA Especializada: IA para Profissionais do Direito | Fundação Bradesco.🚀 O que eu construo (Expertise)Agentic AI & LLMOps: Orquestração de Agentes Autônomos com LangGraph, integração do protocolo MCP e observabilidade via LangSmith.Arquiteturas de IA-Native: Pipelines de RAG para processamento massivo (+390k logs) com foco em redução de latência e custo operacional.Compliance & Legal Tech: Desenvolvimento de motores de auditoria com "Escudos Anti-Alucinação" e conformidade nativa com a LGPD.Fintech & Quant Trading: Engenharia de robôs para B3 e sistemas de gestão de risco tático para mercados de alta volatilidade.🛠️ Meu Stack TecnológicoIA & Dados: Python, Gemini 2.5 Flash, OpenAI API, LangGraph, Vector DBs, DynamoDB.Cloud & Infra: AWS (Serverless, Lambda, IAM), CI/CD, Arquitetura de Micro-frontends.Front-end & Performance: React.js, TypeScript, Tailwind CSS, Electron.🏆 Projetos em DestaqueThe Market Architect (M.A) v13.1: Motor de Big Data para extração de inteligência tática de mercado via IA Generativa.Nexus Command Center: Orquestrador de agentes autônomos com foco em segurança de dados e governança de prompts.Ecossistema Enterprise (28 Sistemas): Suíte completa de produtos proprietários entregues end-to-end.📫 Vamos construir o futuro da IA?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-sousa-tech/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-020617?style=for-the-badge&logo=react&logoColor=38bdf8)](https://adrianasousa-dev.github.io/portfolio/)
