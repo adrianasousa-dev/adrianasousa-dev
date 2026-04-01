@@ -1,6 +1,7 @@
 Olá! Eu sou a Adriana Sousa 👋
 AI Solutions Architect | Senior Software Engineer | LLMOps & AgentOps
-Sou uma arquiteta de soluções focada em transformar requisitos complexos de negócio em ecossistemas digitais autônomos, escaláveis e de alto ROI. Minha trajetória une a precisão da Engenharia de Software à profundidade do Direito, permitindo a criação de ferramentas que são tecnicamente potentes e juridicamente seguras.
+Sou uma arquiteta de soluções focada em transformar requisitos complexos de negócio em ecossistemas digitais autônomos, escaláveis e de alto ROI. 
+Minha trajetória une a precisão da Engenharia de Software à profundidade do Direito, permitindo a criação de ferramentas que são tecnicamente potentes e juridicamente seguras.
 
 🎓 Educação & Evolução Técnica
 Tecnologia em Inteligência Artificial | FMU (2025 – 2027) 
